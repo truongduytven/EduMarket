@@ -17,7 +17,7 @@ Dự án React xây dựng nền tảng thương mại điện tử cho khóa h�
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/truongduytven/edumarket.git
+git clone https://github.com/truongduytven/Edumarket.git
 cd edumarket
 ```
 
